@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "560209547140",
+    "project_id": "tpsyntheseyskuridov",
+    "storage_bucket": "tpsyntheseyskuridov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560209547140:android:522015388005a1db67d7d1",
+        "android_client_info": {
+          "package_name": "com.example.tp_synthese_yskuridov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560209547140-9adoi8ivvhu679285ab00j12kpcd742t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa1_tvDiULH8FQ73_ncVfGpgeXItu70LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560209547140-9adoi8ivvhu679285ab00j12kpcd742t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
